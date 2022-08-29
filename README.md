@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacob-Pla
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me galaxy.otters@gmail.com
 
 <!---
